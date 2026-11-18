@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/sport/#webpage",
+      "url":"https://iranstatis.com/sport/",
+      "name":"آمار ورزش و اماکن ورزشی | ایران استاتیس",
+      "inLanguage":"fa-IR",
+      "description":"دانلود داده‌های آماری مربوط به اماکن ورزشی، استادیوم‌ها، ورزشکاران سازمان‌یافته و مدال‌های المپیک و آسیایی.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمار ورزش، اماکن ورزشی و ورزشکاران در ایران"
+      }
+    },
+    {
+      "@type":"Dataset",
+      "name":"داده‌های رسمی ورزش در ایران",
+      "description": "تعداد اماکن ورزشی، ورزشکاران دارای بیمه ورزشی و مدال‌های کسب شده.",
+      "creator":{
+        "@type":"Organization",
+        "name":"ایران استاتیس"
+      },
+      "keywords":[
+        "اماکن ورزشی",
+        "ورزشکاران",
+        "مدال المپیک",
+        "استادیوم ورزشی",
+        "بیمه ورزشی"
+      ],
+      "inLanguage":"fa-IR"
+    }
+  ]
+}

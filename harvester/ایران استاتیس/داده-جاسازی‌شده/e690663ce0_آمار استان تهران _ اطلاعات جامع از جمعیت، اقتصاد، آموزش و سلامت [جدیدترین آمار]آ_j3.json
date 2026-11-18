@@ -1,0 +1,20 @@
+{
+    "@context": "https://schema.org  ",
+    "@type": "Product",
+    "name": "آمار استان تهران",
+    "description": "مجموعه کامل آمارهای استان تهران شامل جداول Excel و گزارش‌های PDF",
+    "brand": {
+      "@type": "Organization",
+      "name": "ایران استاتیس"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://iranstatis.com/subscription/  ",
+      "priceCurrency": "IRR",
+      "availability": "https://schema.org/InStock  ",
+      "seller": {
+        "@type": "Organization",
+        "name": "ایران استاتیس"
+      }
+    }
+  }

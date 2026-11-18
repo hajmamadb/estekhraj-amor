@@ -1,0 +1,27 @@
+{
+    "@context":"https://schema.org",
+    "@type":"Product",
+    "name":"داشبورد اکسلی حساب‌های استانی ایران (GDP استانی)",
+    "image":"https://iranstatis.com/wp-content/uploads/2025/10/regional-dashboard-cover-1024x1024.jpg",
+    "description":"داشبورد اکسل حساب‌های استانی ایران شامل GDP، رشد اقتصادی، سهم استان‌ها، درآمد سرانه و سهم بخش‌ها با داده‌های رسمی مرکز آمار ایران. مناسب برای تحلیل بازار، پژوهش و برنامه‌ریزی.",
+    "brand":{"@type":"Brand","name":"IranStatis"},
+    "sku":"regional-dashboard",
+    "category":"https://schema.org/BusinessApplication",
+    "isAccessibleForFree": false,
+    "audience":{"@type":"Audience","audienceType":"پژوهشگران، تحلیلگران اقتصادی، مدیران و دانشجویان"},
+    "offers":{
+      "@type":"Offer",
+      "url":"https://iranstatis.com/downloads/regional-dashboard/",
+      "price":"0",
+      "priceCurrency":"IRR",
+      "availability":"https://schema.org/InStock",
+      "category":"subscription",
+      "description":"دسترسی از طریق اشتراک حرفه‌ای/ویژه IranStatis",
+      "eligibleRegion":{"@type":"Country","name":"IR"}
+    },
+    "aggregateRating":{
+      "@type":"AggregateRating",
+      "ratingValue":"4.9",
+      "reviewCount":"57"
+    }
+  }

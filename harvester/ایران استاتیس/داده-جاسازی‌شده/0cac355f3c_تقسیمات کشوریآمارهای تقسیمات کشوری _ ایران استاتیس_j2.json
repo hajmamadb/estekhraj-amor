@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/Country_divisions/#webpage",
+      "url":"https://iranstatis.com/Country_divisions",
+      "name":"آمارهای تقسیمات کشوری",
+      "inLanguage":"fa-IR",
+      "description":"بانک جامع آمارهای تقسیمات کشوری شامل تعداد و مساحت استان‌ها، شهرستان‌ها، شهرها، دهستان‌ها و آبادی‌های ایران.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"تقسیمات کشوری و جغرافیایی"
+      }
+    }
+  ]
+}

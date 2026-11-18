@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+logs/
+*.log
+*.rar
+*.zip
+*.exe
+*.pdf
+*.parquet
+*.db
+*.sqlite

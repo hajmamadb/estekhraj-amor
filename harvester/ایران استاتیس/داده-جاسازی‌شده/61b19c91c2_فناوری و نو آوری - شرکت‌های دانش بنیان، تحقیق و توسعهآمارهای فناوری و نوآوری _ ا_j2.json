@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/technology/#webpage",
+      "url":"https://iranstatis.com/technology",
+      "name":"آمارهای فناوری و نوآوری",
+      "inLanguage":"fa-IR",
+      "description":"بانک جامع آمارهای فناوری، شرکت‌های دانش‌بنیان، پارک‌های علم و فناوری و شاخص‌های تحقیق و توسعه (R&D) در ایران.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"فناوری، نوآوری و اقتصاد دانش‌بنیان"
+      }
+    }
+  ]
+}

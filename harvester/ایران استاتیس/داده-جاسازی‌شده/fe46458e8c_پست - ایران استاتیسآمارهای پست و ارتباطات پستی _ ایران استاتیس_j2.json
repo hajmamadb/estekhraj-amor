@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/post/#webpage",
+      "url":"https://iranstatis.com/post/",
+      "name":"آمارهای پست و ارتباطات پستی",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمارهای شبکه پستی ایران شامل ترافیک مرسولات، سرعت سیر، توزیع موفق و آمار واحدهای پستی.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای پستی و لجستیک خرد"
+      }
+    }
+  ]
+}

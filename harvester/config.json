@@ -1,0 +1,154 @@
+{
+  "output_root": ".",
+  "max_pages_per_site": 6000,
+  "max_file_mb": 400,
+  "timeout": 45,
+  "retries": 3,
+  "delay": 0.35,
+  "ai": {
+    "enabled": false,
+    "base_url": "https://ai.ismc.ir/api",
+    "api_key": "sk-5K6TXne1qfnoiUWXvbQ0lg",
+    "model": "qwen38-nothinking"
+  },
+  "sites": [
+    {
+      "name": "مرکز آمار ایران",
+      "folder": "مرکز آمار ایران",
+      "start_urls": [
+        "https://amar.org.ir/",
+        "https://amar.org.ir/statistical-information",
+        "https://amar.org.ir/salnameh-amari",
+        "https://amar.org.ir/classifications",
+        "https://amar.org.ir/report-system2"
+      ],
+      "allowed_hosts": ["amar.org.ir", "www.amar.org.ir"],
+      "max_depth": 8,
+      "max_pages": 6000,
+      "delay": 0.3,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "/DesktopModules/",
+        "/Portals/_default/",
+        "/Resources/",
+        "[Ll]ogin",
+        "/admin",
+        "Search-Results",
+        "\\?ctl="
+      ]
+    },
+    {
+      "name": "ایران استاتیس",
+      "folder": "ایران استاتیس",
+      "start_urls": [
+        "https://iranstatis.com/",
+        "https://iranstatis.com/infographic/",
+        "https://iranstatis.com/data-lab/",
+        "https://iranstatis.com/category/"
+      ],
+      "allowed_hosts": ["iranstatis.com", "www.iranstatis.com"],
+      "max_depth": 8,
+      "max_pages": 4000,
+      "delay": 0.5,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "/wp-json/",
+        "/wp-admin/",
+        "/wp-login",
+        "/feed/",
+        "/checkout/",
+        "/cart/",
+        "/my-account/",
+        "\\?replytocom=",
+        "/comments/"
+      ]
+    },
+    {
+      "name": "ایمیدرو",
+      "folder": "ایمیدرو",
+      "start_urls": [
+        "https://imidro.gov.ir/fa/index.php",
+        "https://imidro.gov.ir/fa/page/102472-گزارش-عملکرد-سازمان.html",
+        "https://imidro.gov.ir/fa/page/102535-گزارش-های-آماری.html",
+        "https://imidro.gov.ir/fa/page/102554-آمار-تولیدات-سالانه-به-تفکیک-گروه-محصول.html",
+        "https://imidro.gov.ir/fa/page/52597-طرح-ها-پروژه-ها.html",
+        "https://imidro.gov.ir/fa/page/50626-فایل-ها.html"
+      ],
+      "allowed_hosts": ["imidro.gov.ir", "www.imidro.gov.ir"],
+      "max_depth": 8,
+      "max_pages": 5000,
+      "delay": 0.35,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "backend\\.php",
+        "user\\.php",
+        "/fa/\\.\\./s/",
+        "[Ll]ogin",
+        "logout"
+      ]
+    },
+    {
+      "name": "وزارت صمت",
+      "folder": "وزارت صمت",
+      "start_urls": [
+        "https://www.mimt.gov.ir/",
+        "https://www.mimt.gov.ir/آمارهای-رسمی",
+        "https://www.mimt.gov.ir/گزارشات",
+        "https://www.mimt.gov.ir/گزارش-سالانه",
+        "https://www.mimt.gov.ir/سامانه‌ها"
+      ],
+      "allowed_hosts": ["mimt.gov.ir", "www.mimt.gov.ir"],
+      "max_depth": 8,
+      "max_pages": 5000,
+      "delay": 0.4,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "/search",
+        "[Ll]ogin"
+      ]
+    },
+    {
+      "name": "بهین‌یاب (درخت ISIC)",
+      "folder": "بهین یاب",
+      "start_urls": [
+        "https://behinyab.ir/common/isic/tree",
+        "https://behinyab.ir/"
+      ],
+      "allowed_hosts": ["behinyab.ir", "www.behinyab.ir"],
+      "max_depth": 6,
+      "max_pages": 3000,
+      "delay": 0.5,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "/login",
+        "/logout",
+        "/user/",
+        "captcha"
+      ]
+    },
+    {
+      "name": "وزارت جهاد کشاورزی",
+      "folder": "وزارت جهاد کشاورزی",
+      "start_urls": [
+        "https://www.maj.ir/",
+        "https://www.maj.ir/داشبورد-اطلاعاتی-و-سامانه-های-کاربردی"
+      ],
+      "allowed_hosts": ["maj.ir", "www.maj.ir"],
+      "max_depth": 8,
+      "max_pages": 4000,
+      "delay": 0.4,
+      "sitemap": true,
+      "extract_tables": true,
+      "exclude_patterns": [
+        "/login",
+        "/logout",
+        "captcha"
+      ]
+    }
+  ]
+}

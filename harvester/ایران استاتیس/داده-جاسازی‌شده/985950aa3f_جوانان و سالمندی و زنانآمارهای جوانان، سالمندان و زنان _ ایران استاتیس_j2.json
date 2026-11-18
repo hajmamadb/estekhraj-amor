@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/youthold-age/#webpage",
+      "url":"https://iranstatis.com/youthold-age/",
+      "name":"آمارهای جوانان، سالمندان و زنان",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمار جمعیتی جوانان، برآوردهای سالمندی تا سال ۱۴۱۵ و آسیب‌های اجتماعی زنان در پایگاه ایران استاتیس.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای جمعیتی و اجتماعی"
+      }
+    }
+  ]
+}

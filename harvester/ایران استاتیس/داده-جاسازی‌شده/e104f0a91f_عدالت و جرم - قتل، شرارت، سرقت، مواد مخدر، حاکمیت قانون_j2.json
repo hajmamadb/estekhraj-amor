@@ -1,0 +1,13 @@
+{
+  "@context":"https://schema.org",
+  "@type":"WebPage",
+  "name":"آمار جرم، عدالت، زندان و تصادفات ایران",
+  "url":"https://iranstatis.com/justice&crime/",
+  "inLanguage":"fa-IR",
+  "description":"مرجع آمار جرائم، سرقت، قتل، نزاع، نظام قضایی، زندانیان و تصادفات رانندگی ایران همراه با داده‌های تاریخی، تحلیل و فایل اکسل.",
+  "isPartOf":{
+    "@type":"WebSite",
+    "name":"ایران استاتیس",
+    "url":"https://iranstatis.com/"
+  }
+}

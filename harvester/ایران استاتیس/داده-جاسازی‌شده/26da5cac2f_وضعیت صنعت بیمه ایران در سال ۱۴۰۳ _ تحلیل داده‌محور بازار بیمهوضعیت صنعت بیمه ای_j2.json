@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "وضعیت صنعت بیمه ایران در سال ۱۴۰۳؛ تحلیل جامع داده‌محور",
+  "description": "تحلیل جامع و داده‌محور صنعت بیمه ایران در سال ۱۴۰۳ با تمرکز بر حق‌بیمه، خسارت، ضریب خسارت و ترکیب رشته‌های بیمه‌ای",
+  "inLanguage": "fa-IR",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://iranstatis.com/insurance-industry-iran-1403-analysis"
+  }
+}

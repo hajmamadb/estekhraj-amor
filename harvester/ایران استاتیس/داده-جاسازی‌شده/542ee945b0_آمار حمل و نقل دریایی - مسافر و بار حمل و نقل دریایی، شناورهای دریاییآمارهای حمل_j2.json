@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/sea_transport/#webpage",
+      "url":"https://iranstatis.com/sea_transport",
+      "name":"آمارهای حمل و نقل دریایی",
+      "inLanguage":"fa-IR",
+      "description":"آمار جامع بارگیری و تخلیه کالا در بنادر، جابجایی مسافر دریایی، ظرفیت کانتینری و ناوگان شناورها در ایران.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای حمل و نقل دریایی"
+      }
+    }
+  ]
+}

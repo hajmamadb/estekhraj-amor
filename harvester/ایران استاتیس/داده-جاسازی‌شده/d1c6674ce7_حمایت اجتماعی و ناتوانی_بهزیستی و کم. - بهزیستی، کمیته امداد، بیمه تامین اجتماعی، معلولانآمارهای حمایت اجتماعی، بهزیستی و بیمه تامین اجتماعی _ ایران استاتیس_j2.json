@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/social-supportdisability/#webpage",
+      "url":"https://iranstatis.com/social-supportdisability/",
+      "name":"آمارهای حمایت اجتماعی و ناتوانی",
+      "inLanguage":"fa-IR",
+      "description":"آمار جامع بهزیستی، کمیته امداد، بیمه تامین اجتماعی، صندوق‌های بازنشستگی و بیمه سلامت در ایران.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای حمایت اجتماعی و ناتوانی"
+      }
+    }
+  ]
+}

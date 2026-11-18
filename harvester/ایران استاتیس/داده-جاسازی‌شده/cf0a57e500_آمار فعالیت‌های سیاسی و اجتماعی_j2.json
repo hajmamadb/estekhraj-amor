@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/elections/#webpage",
+      "url":"https://iranstatis.com/elections/",
+      "name":"آمار انتخابات و فعالیت‌های سیاسی و اجتماعی ایران",
+      "inLanguage":"fa-IR",
+      "description":"آمار رسمی انتخابات ریاست جمهوری، مجلس شورای اسلامی و شوراهای شهر و روستا شامل واجدین شرایط، درصد مشارکت و مشخصات نمایندگان.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمار انتخابات و رویدادهای سیاسی اجتماعی"
+      }
+    },
+    {
+      "@type":"Dataset",
+      "name":"داده‌های رسمی انتخابات ایران",
+      "description": "تعداد دارندگان حق رای، رای دهندگان، درصد مشارکت و آمار نمایندگان تفکیک شده بر اساس سن و جنسیت.",
+      "creator":{
+        "@type":"Organization",
+        "name":"ایران استاتیس"
+      },
+      "keywords":[
+        "آمار انتخابات",
+        "درصد مشارکت انتخابات",
+        "تعداد نمایندگان مجلس",
+        "آمار واجدین شرایط رای",
+        "اعضای شورای شهر و روستا"
+      ],
+      "inLanguage":"fa-IR"
+    }
+  ]
+}

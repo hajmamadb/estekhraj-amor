@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://iranstatis.com/provincepopulation-statistics-tehran/#dataset",
+      "name": "آمار جمعیت استان تهران در سال ۱۴۰۵",
+      "alternateName": [
+        "جمعیت استان تهران ۱۴۰۵",
+        "آمار جمعیت تهران",
+        "داده‌های جمعیتی استان تهران"
+      ],
+      "description": "مجموعه داده آمار جمعیت استان تهران شامل روند تاریخی جمعیت، تعداد خانوار، جمعیت شهری و روستایی، ترکیب سنی و جنسی، وقایع حیاتی و پیش‌بینی جمعیت تا سال ۱۴۱۵.",
+      "url": "https://iranstatis.com/provincepopulation-statistics-tehran/",
+      "mainEntityOfPage": "https://iranstatis.com/provincepopulation-statistics-tehran/",
+      "inLanguage": "fa-IR",
+      "dateModified": "2026-07-21",
+      "temporalCoverage": "1986/2036",
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "استان تهران، ایران"
+      },
+      "creator": {
+        "@type": "Organization",
+        "@id": "https://iranstatis.com/#organization",
+        "name": "ایران استاتیس",
+        "url": "https://iranstatis.com/"
+      },
+      "provider": {
+        "@id": "https://iranstatis.com/#organization"
+      },
+      "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "name": "بانک اطلاعات آماری ایران استاتیس",
+        "url": "https://iranstatis.com/"
+      },
+      "keywords": [
+        "جمعیت استان تهران",
+        "جمعیت تهران ۱۴۰۵",
+        "آمار جمعیت تهران",
+        "جمعیت شهری تهران",
+        "جمعیت روستایی تهران",
+        "تعداد خانوار استان تهران",
+        "ترکیب سنی جمعیت تهران",
+        "پیش‌بینی جمعیت تهران",
+        "دانلود اکسل جمعیت تهران"
+      ],
+      "variableMeasured": [
+        "جمعیت استان تهران",
+        "تعداد خانوار",
+        "جمعیت شهری",
+        "جمعیت روستایی",
+        "نسبت جنسی",
+        "ترکیب سنی",
+        "ولادت",
+        "مرگ‌ومیر",
+        "ازدواج",
+        "طلاق"
+      ],
+      "isAccessibleForFree": false,
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "name": "نمونه رایگان فایل اکسل آمار جمعیت استان تهران",
+          "description": "نمونه‌ای رایگان از ساختار فایل و بخشی از داده‌ها برای بررسی پیش از تهیه اشتراک حرفه‌ای.",
+          "contentUrl": "https://iranstatis.com/wp-content/uploads/2025/09/population_tem.xls",
+          "encodingFormat": "application/vnd.ms-excel",
+          "isAccessibleForFree": true
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://iranstatis.com/provincepopulation-statistics-tehran/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "جمعیت استان تهران در سال ۱۴۰۵ چقدر است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "جمعیت استان تهران در سال ۱۴۰۵ حدود ۱۴ میلیون و ۶۸۴ هزار نفر برآورد شده است. این رقم مربوط به کل استان تهران است و با جمعیت شهر تهران تفاوت دارد."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "آیا آمار سال ۱۴۰۵ قطعی است یا برآوردی؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "رقم سال ۱۴۰۵ برآورد جمعیت است. داده‌های تاریخی و ارقام پیش‌بینی‌شده در فایل اکسل به‌صورت مجزا مشخص شده‌اند."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "فایل اکسل آمار جمعیت استان تهران شامل چه اطلاعاتی است؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "فایل کامل شامل ۱۳ جدول آماری درباره روند جمعیت، جمعیت مردان و زنان، جمعیت شهری و روستایی، خانوار، ترکیب سنی، وقایع حیاتی و پیش‌بینی جمعیت تا سال ۱۴۱۵ است."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "آیا می‌توان پیش از تهیه اشتراک، نمونه فایل را مشاهده کرد؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "بله. نمونه فایل اکسل به‌صورت رایگان و بدون نیاز به اشتراک در همین صفحه قابل دانلود است."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "چگونه فایل کامل را دانلود کنم؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "دانلود فایل کامل برای کاربران دارای اشتراک حرفه‌ای ایران استاتیس فعال است. پس از تهیه اشتراک و ورود به حساب کاربری، فایل از همین صفحه قابل دریافت خواهد بود."
+          }
+        }
+      ]
+    }
+  ]
+}

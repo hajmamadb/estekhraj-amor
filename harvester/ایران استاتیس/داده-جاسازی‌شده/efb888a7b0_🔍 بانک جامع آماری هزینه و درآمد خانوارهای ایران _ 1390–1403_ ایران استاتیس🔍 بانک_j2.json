@@ -1,0 +1,28 @@
+{
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "بانک جامع آماری هزینه و درآمد خانوارهای ایران | 1390–1403",
+      "image": "https://iranstatis.com/wp-content/uploads/2025/05/t15.png",
+      "description": "فایل اکسل حاوی داده‌های کامل هزینه و درآمد خانوارهای ایران از سال 1390 تا 1403 به تفکیک استان، شهری و روستایی، لوازم معیشتی، مسکن و شاخص‌های اقتصادی و اجتماعی.",
+      "sku": "16269",
+      "brand": {
+        "@type": "Organization",
+        "name": "ایران استاتیس"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "300000",
+        "priceCurrency": "IRR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://iranstatis.com/downloads/household-income-expenses-iran/",
+        "seller": {
+          "@type": "Organization",
+          "name": "ایران استاتیس"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "142"
+      }
+    }

@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "داشبورد اکسل وضعیت نیروی کار ایران (1384 تا 1404)",
+  "description": "فایل اکسل تعاملی حاوی آمار رسمی نیروی کار ایران از مرکز آمار ایران، شامل 9 شاخص کلیدی (نرخ بیکاری، مشارکت اقتصادی، اشتغال ناقص و...) با قابلیت فیلتر استانی، فصلی و جنسیتی تا زمستان 1404.",
+  "brand": {
+    "@type": "Brand",
+    "name": "ایران استاتیس"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://iranstatis.com/downloads/dashboardlaborforce/",
+    "priceCurrency": "IRR",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "ایران استاتیس",
+      "url": "https://iranstatis.com"
+    },
+    "eligibleRegion": "IR"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "پژوهشگران، سیاست‌گذاران اقتصادی، دانشجویان اقتصاد، مشاوران کسب‌وکار"
+  },
+  "keywords": "آمار نیروی کار ایران، داشبورد بیکاری 1404، نرخ اشتغال استان‌ها، داده‌های مرکز آمار ایران، اکسل آمار اقتصادی"
+}

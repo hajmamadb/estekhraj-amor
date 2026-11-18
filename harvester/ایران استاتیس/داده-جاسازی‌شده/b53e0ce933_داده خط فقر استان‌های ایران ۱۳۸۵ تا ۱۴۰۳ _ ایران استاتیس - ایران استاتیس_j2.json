@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "دیتاست خط فقر استان‌های ایران",
+  "description": "دیتاست آماده تحلیل خط فقر استان‌های ایران شامل خط فقر غذایی، خط فقر غیرخوراکی، خط فقر مطلق، تعداد فقرا و نرخ فقر افراد و خانوارها در بازه ۱۳۸۵ تا ۱۴۰۳.",
+  "creator": {
+    "@type": "Organization",
+    "name": "IranStatis",
+    "url": "https://iranstatis.com"
+  },
+  "temporalCoverage": "1385/1403",
+  "spatialCoverage": {
+    "@type": "Country",
+    "name": "Iran"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "Excel"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "name": "CSV"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/pdf",
+      "name": "PDF Methodology"
+    }
+  ]
+}

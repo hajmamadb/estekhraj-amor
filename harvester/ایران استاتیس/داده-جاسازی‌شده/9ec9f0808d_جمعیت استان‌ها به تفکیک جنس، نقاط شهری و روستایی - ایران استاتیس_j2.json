@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "آمار جمعیت استان‌های ایران (1365 تا 1415)",
+  "description": "مجموعه داده‌ی رسمی جمعیت 31 استان ایران از سال 1365 تا 1415 به تفکیک نقاط شهری/روستایی و جنسیت، بر اساس داده‌های مرکز آمار ایران.",
+  "url": "https://iranstatis.com/downloads/a01010066/",
+  "creator": {
+    "@type": "Organization",
+    "name": "مرکز آمار ایران",
+    "url": "https://www.amar.org.ir"
+  },
+  "license": "https://www.amar.org.ir/Portal/Default.aspx?tabid=587",
+  "temporalCoverage": "1986-03-21/2037-03-19",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "ایران"
+  },
+  "keywords": "جمعیت استان‌ها, آمار جمعیت, شهری و روستایی, سرشماری ایران, مرکز آمار ایران, جنسیت, نمودار جمعیت",
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "XLSX",
+    "contentUrl": "https://iranstatis.com/downloads/a01010066/"
+  }
+}

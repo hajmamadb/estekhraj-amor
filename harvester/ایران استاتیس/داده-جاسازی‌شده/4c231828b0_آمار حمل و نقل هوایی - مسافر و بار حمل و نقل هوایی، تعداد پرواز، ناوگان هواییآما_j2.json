@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/air_transportation/#webpage",
+      "url":"https://iranstatis.com/air_transportation/",
+      "name":"آمارهای حمل و نقل هوایی",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمارهای حمل و نقل هوایی در ایران شامل جابجایی مسافر داخلی و خارجی، تعداد پروازها، آمار بار و محموله پستی و وضعیت ناوگان هوایی.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای حمل و نقل و لجستیک"
+      }
+    }
+  ]
+}

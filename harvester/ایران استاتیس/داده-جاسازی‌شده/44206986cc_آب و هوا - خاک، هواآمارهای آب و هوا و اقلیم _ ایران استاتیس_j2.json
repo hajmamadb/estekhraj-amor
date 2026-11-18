@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/weather/#webpage",
+      "url":"https://iranstatis.com/weather/",
+      "name":"آمارهای آب و هوا و اقلیم",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمارهای بلندمدت و سالانه آب و هوا، بارندگی، دما و رطوبت در مراکز استان‌های ایران.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آب و هوا و اقلیم"
+      }
+    }
+  ]
+}

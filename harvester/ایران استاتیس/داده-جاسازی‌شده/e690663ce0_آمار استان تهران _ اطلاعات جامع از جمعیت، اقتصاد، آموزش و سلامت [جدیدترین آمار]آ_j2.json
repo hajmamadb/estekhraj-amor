@@ -1,0 +1,20 @@
+{
+    "@context": "  https://schema.org  ",
+    "@type": "Dataset",
+    "name": "آمار استان تهران ۱۴۰۴",
+    "description": "مجموعه‌ای از داده‌های رسمی درباره جمعیت، اقتصاد، آموزش، بهداشت و صنعت استان تهران",
+    "url": "https://iranstatis.com/statistics-tehran-province/  ",
+    "license": "https://creativecommons.org/licenses/by/4.0/  ",
+    "creator": {
+      "@type": "Organization",
+      "name": "ایران استاتیس",
+      "url": "https://iranstatis.com  "
+    },
+    "keywords": ["آمار تهران", "جمعیت تهران", "بیکاری تهران", "آموزش تهران", "بهداشت تهران", "اقتصاد تهران", "کشاورزی تهران", "فرهنگ تهران"],
+    "temporalCoverage": "2024-2025",
+    "distribution": {
+      "@type": "DataDownload",
+      "contentUrl": "https://iranstatis.com/subscription/  ",
+      "encodingFormat": "application/pdf, application/vnd.ms-excel"
+    }
+  }

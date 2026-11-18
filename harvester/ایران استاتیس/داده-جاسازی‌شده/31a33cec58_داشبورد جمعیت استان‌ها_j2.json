@@ -1,0 +1,25 @@
+{
+  "@context":"https://schema.org",
+  "@type":"Dataset",
+  "name":"داشبورد جمعیت استان‌های ایران در سال ۱۴۰۵",
+  "description":"داده‌های جمعیت ۳۱ استان ایران شامل جمعیت کل، تعداد مردان، تعداد زنان، جمعیت شهری، درصد شهرنشینی و نسبت جنسی در سال ۱۴۰۵.",
+  "inLanguage":"fa-IR",
+  "spatialCoverage":{
+    "@type":"Place",
+    "name":"Iran"
+  },
+  "provider":{
+    "@type":"Organization",
+    "name":"IranStatis",
+    "url":"https://iranstatis.com/"
+  },
+  "variableMeasured":[
+    "جمعیت کل",
+    "جمعیت مردان",
+    "جمعیت زنان",
+    "جمعیت شهری",
+    "درصد شهرنشینی",
+    "نسبت جنسی"
+  ],
+  "isAccessibleForFree":true
+}

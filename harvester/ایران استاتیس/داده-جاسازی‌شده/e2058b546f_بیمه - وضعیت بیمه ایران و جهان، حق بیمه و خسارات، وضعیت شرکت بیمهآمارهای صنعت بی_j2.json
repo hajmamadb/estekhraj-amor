@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/insurance/#webpage",
+      "url":"https://iranstatis.com/insurance/",
+      "name":"آمارهای صنعت بیمه",
+      "inLanguage":"fa-IR",
+      "description":"آمار جامع حق بیمه تولیدی، ضریب نفوذ بیمه، خسارات پرداختی، وضعیت شرکت‌های بیمه و خدمات بیمه‌ای در ایران و جهان.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای صنعت بیمه"
+      }
+    }
+  ]
+}

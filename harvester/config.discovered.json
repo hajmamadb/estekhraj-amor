@@ -1,0 +1,54 @@
+{
+ "output_root": "D:\\استخراج امار\\harvester\\_test_out",
+ "max_pages_per_site": 6000,
+ "max_file_mb": 400,
+ "timeout": 45,
+ "retries": 3,
+ "delay": 0.35,
+ "ai": {
+  "enabled": false,
+  "base_url": "https://ai.ismc.ir/api",
+  "api_key": "sk-5K6TXne1qfnoiUWXvbQ0lg",
+  "model": "qwen38-nothinking"
+ },
+ "_generated": "2026-11-05T08:36:16",
+ "sites": [
+  {
+   "name": "ایمیدرو",
+   "folder": "ایمیدرو",
+   "start_urls": [
+    "https://imidro.gov.ir/fa/index.php",
+    "https://imidro.gov.ir/fa/page/102472-گزارش-عملکرد-سازمان.html",
+    "https://imidro.gov.ir/fa/page/102535-گزارش-های-آماری.html",
+    "https://imidro.gov.ir/fa/page/102554-آمار-تولیدات-سالانه-به-تفکیک-گروه-محصول.html",
+    "https://imidro.gov.ir/fa/page/52597-طرح-ها-پروژه-ها.html",
+    "https://imidro.gov.ir/fa/page/50626-فایل-ها.html"
+   ],
+   "allowed_hosts": [
+    "imidro.gov.ir",
+    "www.imidro.gov.ir"
+   ],
+   "max_depth": 8,
+   "max_pages": 5000,
+   "delay": 0.35,
+   "sitemap": true,
+   "extract_tables": true,
+   "exclude_patterns": [
+    "backend\\.php",
+    "user\\.php",
+    "/fa/\\.\\./s/",
+    "[Ll]ogin",
+    "logout"
+   ],
+   "_stats": {
+    "pages": 6,
+    "files": 9,
+    "bytes": 14902850,
+    "errors": 0
+   },
+   "_sections": {
+    "fa": 6
+   }
+  }
+ ]
+}

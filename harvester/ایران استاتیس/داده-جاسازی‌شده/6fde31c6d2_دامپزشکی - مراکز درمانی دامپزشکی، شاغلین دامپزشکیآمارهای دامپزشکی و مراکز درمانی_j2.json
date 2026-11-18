@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/veterinary_medicine/#webpage",
+      "url":"https://iranstatis.com/veterinary_medicine/",
+      "name":"آمارهای دامپزشکی و مراکز درمانی",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمارهای زیرساخت‌های دامپزشکی ایران شامل آمار بیمارستان‌ها، پلی‌کلینیک‌ها، آزمایشگاه‌ها، داروخانه‌ها و فعالیت‌های درمانگاهی.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای دامپزشکی و سلامت دام"
+      }
+    }
+  ]
+}

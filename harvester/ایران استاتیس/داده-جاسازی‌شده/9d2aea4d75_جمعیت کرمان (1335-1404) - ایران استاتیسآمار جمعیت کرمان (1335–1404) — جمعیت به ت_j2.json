@@ -1,0 +1,36 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "آمار جمعیت کرمان (1335–1404)",
+    "description": "آمار کامل جمعیت شهر کرمان از سال 1335 تا 1404 به تفکیک مناطق شهرداری، نرخ رشد، هرم سنی و فایل دانلود. منبع: مرکز آمار ایران.",
+    "url": "https://iranstatis.com/downloads/a01010047/",
+    "creator": {
+      "@type": "Organization",
+      "name": "IranStatis",
+      "url": "https://iranstatis.com"
+    },
+    "keywords": [
+      "جمعیت کرمان",
+      "آمار کرمان",
+      "جمعیت به تفکیک مناطق کرمان",
+      "نرخ رشد جمعیت کرمان",
+      "مرکز آمار ایران"
+    ],
+    "datePublished": "2025-07-16",
+    "dateModified": "2025-10-08",
+    "license": "مرجع: مرکز آمار ایران",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "name": "فایل اکسل آمار جمعیت کرمان",
+        "encodingFormat": "application/vnd.ms-excel",
+        "contentUrl": "https://iranstatis.com/downloads/files/a01010047.xlsx"
+      },
+      {
+        "@type": "DataDownload",
+        "name": "فایل PDF آمار جمعیت کرمان",
+        "encodingFormat": "application/pdf",
+        "contentUrl": "https://iranstatis.com/downloads/files/a01010047.pdf"
+      }
+    ]
+  }

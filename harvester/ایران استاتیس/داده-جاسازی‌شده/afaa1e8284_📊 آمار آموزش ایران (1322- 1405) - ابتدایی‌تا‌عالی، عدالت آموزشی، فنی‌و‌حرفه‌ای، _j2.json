@@ -1,0 +1,20 @@
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@type":"CollectionPage",
+      "@id":"https://iranstatis.com/educaton/#webpage",
+      "url":"https://iranstatis.com/educaton/",
+      "name":"آمار آموزش ایران؛ دانش‌آموز، مدرسه، دانشگاه، سواد و مهارت",
+      "inLanguage":"fa-IR",
+      "description":"مرجع آمار آموزش ایران شامل دانش‌آموزان، مدارس، پوشش و کارایی آموزشی، آموزش عالی، مهارت‌آموزی و سواد."
+    },
+    {
+      "@type":"FAQPage",
+      "mainEntity":[
+        {"@type":"Question","name":"تعداد دانش‌آموزان ایران در سال تحصیلی ۱۴۰۵-۱۴۰۴ چقدر است؟","acceptedAnswer":{"@type":"Answer","text":"در سال تحصیلی ۱۴۰۵-۱۴۰۴ تعداد کل دانش‌آموزان کشور ۱۶٬۰۹۰٬۴۷۱ نفر، معادل حدود ۱۶.۰۹ میلیون نفر است."}},
+        {"@type":"Question","name":"تعداد دانشجویان ایران در سال تحصیلی ۱۴۰۴-۱۴۰۳ چقدر است؟","acceptedAnswer":{"@type":"Answer","text":"حدود ۳.۵ میلیون نفر."}}
+      ]
+    }
+  ]
+}

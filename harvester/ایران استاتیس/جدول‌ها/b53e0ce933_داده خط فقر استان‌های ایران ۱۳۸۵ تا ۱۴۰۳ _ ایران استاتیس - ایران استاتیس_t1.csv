@@ -1,0 +1,16 @@
+﻿ردیف,نام ستون در فایل,توضیح
+۱,year,سال
+۲,province_code,کد استان
+۳,province_name,نام استان
+۴,residence_type,نوع سکونت: شهری، روستایی یا کل
+۵,food_poverty_line,خط فقر غذایی سالانه سرانه
+۶,nonfood_poverty_line,خط فقر غیرخوراکی سالانه سرانه
+۷,absolute_poverty_line,خط فقر مطلق سالانه سرانه
+۸,poor_households,تعداد خانوارهای فقیر
+۹,poor_population,تعداد افراد فقیر
+۱۰,individual_poverty_rate,نرخ فقر مطلق افراد
+۱۱,household_poverty_rate,نرخ فقر مطلق خانوارها
+۱۲,food_poor_households,تعداد خانوارهای دارای فقر غذایی
+۱۳,food_poor_population,تعداد افراد دارای فقر غذایی
+۱۴,food_poverty_rate_population,نرخ فقر غذایی افراد
+۱۵,food_poverty_rate_households,نرخ فقر غذایی خانوارها

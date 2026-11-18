@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type":"WebPage",
+      "@id":"https://iranstatis.com/culture/#webpage",
+      "url":"https://iranstatis.com/culture/",
+      "name":"آمارهای فرهنگ",
+      "inLanguage":"fa-IR",
+      "description":"مرجع جامع آمار سینما و تئاتر، کتاب و نشر، موسیقی و آموزشگاه‌های هنری در پایگاه ایران استاتیس.",
+      "isPartOf":{
+        "@type":"WebSite",
+        "name":"ایران استاتیس",
+        "url":"https://iranstatis.com/"
+      },
+      "about":{
+        "@type":"Thing",
+        "name":"آمارهای فرهنگ"
+      }
+    }
+  ]
+}
